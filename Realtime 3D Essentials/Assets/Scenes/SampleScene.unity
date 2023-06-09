@@ -3807,12 +3807,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.5
+      value: 22.89
       objectReference: {fileID: 0}
     - target: {fileID: 4586457761183146952, guid: 4a073854906c0124996bf7649a48e472, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3846,9 +3858,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4586457761183146954, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2dff4099b7abe554face80db08a62780, type: 2}
+    - target: {fileID: 4586457761183146955, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4586457761183146956, guid: 4a073854906c0124996bf7649a48e472, type: 3}
+      propertyPath: m_Mass
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4586457761183146957, guid: 4a073854906c0124996bf7649a48e472, type: 3}
       propertyPath: m_Name
-      value: BouncyBall
+      value: BigBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a073854906c0124996bf7649a48e472, type: 3}
